@@ -1,0 +1,11 @@
+{
+  "name": "processoholu",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para processo seletivo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicios Toledo",
+  "license": "ISC"
+}
